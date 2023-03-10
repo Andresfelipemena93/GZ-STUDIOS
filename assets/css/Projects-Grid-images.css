@@ -1,0 +1,9 @@
+.fit-cover {
+  object-fit: cover;
+}
+.btn_escribenos:hover {
+  background-color: #f5f5f5 !important;
+  color: #000;
+}
+
+
